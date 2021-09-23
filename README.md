@@ -6,6 +6,8 @@
 ### Contact
 
 : jlohoefener[at]ku[dot]edu
+: 252 Nichols Hall 
+: 2028 Eaton Hall
 
 
 ### Information and Telecommunication Technology Center (ITTC)
