@@ -29,6 +29,8 @@ Lawrence, KS 66045 <br>
 eecs[dot]ku[dot]edu <br>
 
 
-# Research Interests
+# Research 
+
+# Teaching
 
 ----
