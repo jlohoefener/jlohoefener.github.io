@@ -8,6 +8,7 @@
 
 
 ### Information and Telecommunication Technology Center (ITTC)
+
 : The University of Kansas
 : Nichols Hall
 : 2335 Irving Hill Road
@@ -16,6 +17,7 @@
 
 
 ### Department of Electrical Engineering and Computer Science
+
 : The University of Kansas
 : 2001 Eaton Hall
 : 1520 West 15th Street
