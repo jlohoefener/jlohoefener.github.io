@@ -10,7 +10,7 @@
 : 2028 Eaton Hall
 
 
-#### Information and Telecommunication Technology Center (ITTC)
+<h4> Information and Telecommunication Technology Center (ITTC) </h4>
 
 : The University of Kansas
 : Nichols Hall
