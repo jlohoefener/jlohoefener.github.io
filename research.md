@@ -7,13 +7,13 @@ title: Research
 
 {% for project in site.data.projects %}
 
-## {{ project.name }}
+<!-- ## {{ project.name }} -->
 
 ---
 
 [{{ project.name }}](https://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
 
-Sponsors: {{ project.sponsor }}
+<!-- Sponsors: {{ project.sponsor }} -->
 
 {% endfor %}
 
@@ -21,13 +21,13 @@ Sponsors: {{ project.sponsor }}
 
 {% for project in site.data.inactive-projects %}
 
-## {{ project.name }}
+<!-- ## {{ project.name }} -->
 
 ---
 
 [{{ project.name }}](https://{{ project.github }}.github.io/{{ project.repo }}) - {{ project.description }}
 
-Sponsors: {{ project.sponsor }}
+<!-- Sponsors: {{ project.sponsor }} -->
 
 {% endfor %}
 
