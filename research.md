@@ -29,9 +29,9 @@ title: Research
 
  Sponsors: {{ project.sponsor }} 
 
-{% endfor %} -->
+{% endfor %}
 
 # Information for Students
 
 * Notes on writing [PhD Dissertation Proposals](phd-proposal)
-* Notes on writing [papers](writing)
+* Notes on writing [papers](writing) -->
