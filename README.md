@@ -10,7 +10,7 @@
 : 2028 Eaton Hall
 
 
-### Information and Telecommunication Technology Center (ITTC)
+#### Information and Telecommunication Technology Center (ITTC)
 
 : The University of Kansas
 : Nichols Hall
@@ -19,7 +19,7 @@
 : ittc[dot]ku[dot]edu
 
 
-### Department of Electrical Engineering and Computer Science
+#### Department of Electrical Engineering and Computer Science
 
 : The University of Kansas
 : 2001 Eaton Hall
