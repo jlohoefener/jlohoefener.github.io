@@ -12,11 +12,11 @@
 
 <h4> Information and Telecommunication Technology Center (ITTC) </h4>
 
-: The University of Kansas
-: Nichols Hall
-: 2335 Irving Hill Road
-: Lawrence, KS 66045
-: ittc[dot]ku[dot]edu
+*The University of Kansas
+*Nichols Hall
+*2335 Irving Hill Road
+*Lawrence, KS 66045
+*ittc[dot]ku[dot]edu
 
 
 #### Department of Electrical Engineering and Computer Science
