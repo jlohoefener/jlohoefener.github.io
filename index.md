@@ -2,7 +2,7 @@
 title: Dr. Jennifer Lohoefener
 ---
 
-# this is index.md file: Information
+Information
 
 ----
 
