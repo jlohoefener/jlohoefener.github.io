@@ -11,7 +11,7 @@ title: Dr. Jennifer Lohoefener
 jlohoefener[at]ku[dot]edu <br>
 
 
-<h4> Information and Telecommunication Technology Center (ITTC) </h4>
+<h4> Institute for Information Sciences (IIS) </h4>
 
 The University of Kansas <br>
 Nichols Hall <br>
