@@ -11,7 +11,7 @@ title: Dr. Jennifer Lohoefener
 jlohoefener[at]ku[dot]edu <br>
 
 
-#### Institute for Information Sciences (IIS)
+#### Institute for Information Sciences (I2S)
 
 The University of Kansas <br>
 Nichols Hall <br>
