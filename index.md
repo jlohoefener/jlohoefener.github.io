@@ -15,7 +15,7 @@ jlohoefener[at]ku[dot]edu <br>
 
 The University of Kansas <br>
 Nichols Hall <br>
-Office 252 <br>
+Office 226 <br>
 2335 Irving Hill Road <br>
 Lawrence, KS 66045 <br>
 ittc[dot]ku[dot]edu <br>
